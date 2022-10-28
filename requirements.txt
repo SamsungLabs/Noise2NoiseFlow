@@ -1,0 +1,10 @@
+matplotlib
+scipy
+sklearn
+ipdb
+opencv-python==4.5.5.64
+h5py==3.6.0
+tensorboard==2.8.0
+scikit-image=0.19.2
+torch==1.11.0
+torchvision==0.12.0
